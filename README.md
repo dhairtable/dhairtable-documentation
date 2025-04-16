@@ -1,2 +1,2 @@
 # documentation
-Markdown documentation used to generate dhairtable static site.
+Markdown documentation and YAML configuration used to generate dhairtable static site.
